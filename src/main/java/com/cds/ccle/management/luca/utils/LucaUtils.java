@@ -1,4 +1,4 @@
--package com.cds.ccle.management.luca.utils;
+package com.cds.ccle.management.luca.utils;
 
 import java.time.Duration;
 import java.util.ArrayList;
