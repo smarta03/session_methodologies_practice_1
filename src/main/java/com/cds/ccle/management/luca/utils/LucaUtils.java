@@ -1,4 +1,4 @@
-package com.cds.ccle.management.luca.utils;
+-package com.cds.ccle.management.luca.utils;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -8,6 +8,8 @@ import java.util.regex.Pattern;
 
 import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
+
+//Nuevo comentario
 
 public class LucaUtils {
 
